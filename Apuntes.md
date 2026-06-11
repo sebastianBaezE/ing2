@@ -14,6 +14,10 @@ La ingenieria de software es una disciplina que se interesa en todos los aspecto
 - **Desarrollo de software:** Donde se diseña y se implementa el software.
 - **Validacion de softare:** Se verifica que el software funcione y realice las tareas requeridas por el cliente.
 - **Evolucion del software:** Etapa donde se mantiene el software, corrigen errores y se lo adapta a las demandas cambiantes del entorno y los clientes.
+## Requerimientos
+Los requerimientos son descripciones de lo que debe hacer un sistema: el servicio que ofrece y las restricciones en su operacion.
+**Funcionales:** Enunciados que describen las tareas que el sistema debe realizar. De como debe reaccionar ante determinaod inputs y como debe comportarse en situaciones especificas. A veces tambien describen lo que no debe hacer el sistema.
+**No funcionales:** Describen aspectos que sin ser funcionales son deseables para el usuario, como tiempo de respuesta, seguridad, facilidad de mantenimiento. Los requerimientos no funcionales surgen a través de necesidades del usuario, debido a restricciones presupuestales, políticas de la organización, necesidad de interoperabilidad con otro software o sistemas de hardware, o factores externos como regulaciones de seguridad o legislación sobre privacidad.
 
 ## Mejoras de procesos
  
@@ -22,9 +26,12 @@ La ingenieria de software es una disciplina que se interesa en todos los aspecto
 ### Medición del proceso 
 Se miden atributos del proyecto actual. La meta es mejorar las medidas de acuerdo con los objetivos de la organización implicada.
 ### Análisis del proceso: 
-Se valora el proceso actual y se identifican las debilidades y los cuello de botella del proceso.
+Se valora el proceso actual y se identifican las debilidades y los cuello de botella del 
+proceso. 
+El análisis del proceso es el estudio de los procesos para ayudar a entender sus características clave y como las personas que implicadas realizan las tareas para llevarlo a cabo.
 ### Cambio del proceso: 
 Los cambios del proceso son propuestos para atacar debilidades identificadas en el proceso. Luego de esto se repite el ciclo, volviendo a la medición para identificar si hubo mejoras.
 
 ### Atributos a mejorar 
 ![[Pasted image 20260611105714.png]]
+
