@@ -1,0 +1,7 @@
+1. Que es un riesgo? como se clasifican?
+2. Cómo puede ser la organización del sistema? (diseño arquitectónico).
+3. En que se diferencian la verificación a la validación? Enumere las pruebas de integración que conozca.
+4. Que tipos de diseño de software conoce?
+5. Como es el proceso de GCS.
+6. Dada la siguiente tabla cual o cuales son el/los camino/s críticos? Cuando terminara el proyecto? Si llueve durante el periodo de excavación, cuanto tiempo se retrasa el proyecto?
+7. Explique el P-CMM (modelo de capacitación y motivación del personal)

@@ -1,0 +1,20 @@
+1) VoF no se puede justificar
+
+	definiciones que vimos en teoria, o alguna cuenta que halla que hacer
+
+
+2) definiciones que tenesmo que describir nosotros.
+
+	que es la metrica de gant?
+	que es la metrica de pert?
+
+3)	ejercicio practico
+
+
+	calculo de metricas
+	calculo diagrama de pert y grant para obtener el camino critico,
+	camino critico, estar atento a que estamos viendo.
+
+
+
+***********************************************************************************************************************

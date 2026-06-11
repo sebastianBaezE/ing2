@@ -1,0 +1,9 @@
+Final reducido Ingeniería de Software II
+
+11 de febrero 2015
+
+TEMAS: Riesgos, Conceptos de diseño, Mantenimiento.
+
+1) ¿Qué es un riesgo?¿Cuáles son sus características?
+2) Definir rejuvenecimiento
+3) Definir cohesión y acoplamiento
