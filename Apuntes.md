@@ -19,6 +19,12 @@ Los requerimientos son descripciones de lo que debe hacer un sistema: el servici
 **Funcionales:** Enunciados que describen las tareas que el sistema debe realizar. De como debe reaccionar ante determinaod inputs y como debe comportarse en situaciones especificas. A veces tambien describen lo que no debe hacer el sistema.
 **No funcionales:** Describen aspectos que sin ser funcionales son deseables para el usuario, como tiempo de respuesta, seguridad, facilidad de mantenimiento. Los requerimientos no funcionales surgen a través de necesidades del usuario, debido a restricciones presupuestales, políticas de la organización, necesidad de interoperabilidad con otro software o sistemas de hardware, o factores externos como regulaciones de seguridad o legislación sobre privacidad.
 
+### Documento de requerimientos de software - SRS -  IEEE 830
+Es una especificación de lo que debe hacer el sistema, donde se detallan los requerimientos del usuario y los requerimientos detallados del sistema. 
+ - **Requerimientos del usuario**: son enunciados que especifican que servicios esperan los usuarios que brinde el sistema, junto con las restricciones que debe respetar. 
+ - **Requerimientos del sistema:** son descripciones mas detalladas de las funciones, los servicios y las restricciones operacionales del sistema. Detallan que van a implementar los desarrolladores del sistema.
+El estandar IEEE 830 - 1998 brinda un modelo generico de lo que debe tener el documento, es como una especie de guia. Esto despues se puede adaptar a las necesidades de la organizacion y lo que convenga para el proyecto. El nivel de detalle que se incluya en un documento depende del tipo de sistema a diseñar y el proceso de desarrollo utilizado. Los sistemas críticos requieren un srs bien detallado y analizado previo a la implementación, para poder garantizar atributos como seguridad y fiabilidad. Si fuese el caso de un desarrollo iterativo interno a la organizacion (hay facil acceso al cliente), entonces el documento suele ser mucho menos detallado y cualquier ambigüedad se resuelve durante el desarrollo. 
+
 ## Mejoras de procesos
  
 ![[Pasted image 20260611104641.png]]
