@@ -40,4 +40,82 @@ Los cambios del proceso son propuestos para atacar debilidades identificadas en 
 
 ### Atributos a mejorar 
 ![[Pasted image 20260611105714.png]]
+## GCS - Gestion de la configuracion de software.
 
+- **¿Qué es?** Al crear software de computadora, ocurren cambios. Y debido a que ocurren, es necesario gestionarlos de manera efectiva. La gestión de confi guración del software (GCS, o Software Confi guration Management, SCM por sus siglas en inglés), es también conocida como gestión del cambio, es un conjunto de actividades diseñadas para gestionar el cambio. 
+- **¿Quién lo hace?** Todos los que participan en el proceso de software se involucran en la gestión del cambio en cierta medida, pero algunas veces se crean posiciones de apoyo especializadas para gestionar el proceso de GCS. 
+- **¿Por qué es importante?** Si no controla el cambio, este lo controla a uno. Y eso nunca es bueno. Es muy fácil que un flujo de cambios descontrolados convierta un proyecto de software bien ejecutado en un caos. Como consecuencia, la calidad del software sufre y se retrasa la entrega. 
+- **¿Cuáles son los pasos?** Puesto que se generan muchos productos de trabajo cuando se crea el software, cada uno debe identifi carse en forma única. Una vez que se logra esto, pueden establecerse mecanismos para el control de versiones y del cambio.
+- **¿Que es el producto de trabajo?** Un producto de trabajo es cualquier resultado tangible generado durante el desarrollo de software que debe gestionarse y mantenerse bajo control de versiones y cambios.
+**GCS:**
+- Es un conjunto de actividades orientadas a gestionar el cambio.
+- Es el proceso de Identificar y definir los elementos en el sistema, controlando el cambio de estos elementos a lo largo de su ciclo de vida, registrando y reportando el estado de los elementos y las solicitudes de cambio, y verificando que los elementos estén completos y que sean los correctos.
+
+Los elementos que conforman lo que se produce luego de un proceso de software se englobal colectivamente bajo el concepto de Elementos de Configuracion de Software (ECS).
+
+**¿Cuales podrian ser los elementos de configuracion de software?** 
+![[Pasted image 20260612140700.png]]
+Cambios en un elemento generalmente generan cambios en varios mas, el control exhaustivo de estos cambios es la GCS.
+
+Estos se pueden subdividir en tres amplias categorias: 
+- Programas de computo (codigo fuente o ejecutable).
+- Productos de trabajo que describen a los programas de computadora (cualquier tipo de documentacion).
+- Datos o contenido.
+
+### Repositorio
+Se cuenta con un repositorio, que es la base de datos donde se almacenan todos los ECS y las relaciones entre si. 
+Los elementos de configuracion de software se relacionan entre si, por lo que un cambio en uno puede afectar a otros
+![[Pasted image 20260615141551.png]]
+
+### Linea de referencia/base - "versionado"
+- Una línea base es un punto de referencia en el desarrollo del software que queda marcado por el envío de uno o más ECS y su aprobación
+- Una especificación o producto que se revisó y acordó de manera formal, que en lo sucesivo sirve como la base para el desarrollo posterior y que puede cambiarse solo a través de procedimientos de control de cambio formales
+
+![[Pasted image 20260615140118.png]]
+
+### El proceso de gestión del cambio
+Debe permitir a un equipo de desarrollo de software poder elaborar respuestas a las preguntas: 
+- ¿Cómo identifica y gestiona una organización las diferentes versiones existentes de un programa (y su documentación) de forma que se puedan introducir cambios eficientemente?  
+- ¿Cómo controla la organización los cambios antes y después de que el software sea distribuido al cliente? 
+- ¿Quién tiene la responsabilidad de aprobar y de asignar prioridades a los cambios? 
+- ¿Cómo podemos garantizar que los cambios se han llevado a cabo adecuadamente?  
+- ¿Qué mecanismo se usa para avisar a otros de los cambios realizados?
+
+El proceso de gestion del cambio define tareas con objetivos precisos con respecto a los ECS que los componen:
+- Identificacion de ECS
+	- Nombre: cadena de carcteres sin ambiguedad
+	- Descripcion: lista de elementos de datos que identifican
+	- Tipo de ECS: (Documento, codigo fuente, datos)
+	- Identificador del proyecto
+	- Informacion de la version y/o cambio
+- Control de versiones (basicamente GIT)
+	- Herramientas que permitan administrar y almacenar las distintas versiones de los ECS que se crean a lo largo del proceso de software.
+- Control de cambios
+	- Todo el proceso que conlleva el realizar un cambio, de principio a fin. 
+	- Cuando un usuario solicita una modificación, esta se evalúa y puede ser rechazada, pospuesta o aprobada. Si se aprueba, se identifican y extraen los elementos de configuración (productos de trabajo como código, documentos o pruebas), se realizan y auditan los cambios, se ejecutan pruebas de calidad, y finalmente los cambios se integran en una nueva versión del software que es revisada y distribuida a los usuarios.
+- Auditar de la configuracion
+	- Es la forma de cersiorarse finalmente que el cambio introducido funciona correctamente. 
+	- Se analizan los metadatos del proceso de cambio
+- Generacion de informes
+	- Se documentan los metadatos
+	- Responde ¿Qué pasó? ¿Quién lo hizo? ¿Cuándo pasó? ¿Qué más se vio afectado?
+
+## Gestión de proyectos
+Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.
+Características: 
+- Temporal: Tiene principio y fin definidos.
+- Resultado: Productos, servicios o resultados únicos.
+- Elaboración gradual: Desarrollar pasos e ir aumentando mediante incrementos. 
+
+### Las 4 P: 
+La gestión efectiva de proyectos de software se enfoca en las cuatro P: personas, producto, proceso y proyecto. Las personas deben organizarse para realizar el trabajo de software de manera efectiva. Hay que entender el alcance del producto y los requerimientos. Es necesario seleccionar un proceso que sea apropiado para las personas y el producto. Para planear el proyecto se deben estimar el esfuerzo y el tiempo de calendario para realizar las tareas del trabajo.
+
+### Elementos clave de la gestión de proyectos
+- Metricas
+- Estimaciones
+- Calendario temporal
+- Organizacion del personal
+- Analisis de riesgos
+- Seguimiento de control 
+
+ 
