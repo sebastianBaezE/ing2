@@ -118,4 +118,5 @@ La gestión efectiva de proyectos de software se enfoca en las cuatro P: persona
 - Analisis de riesgos
 - Seguimiento de control 
 
+
  
