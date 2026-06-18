@@ -64,7 +64,7 @@ Estos se pueden subdividir en tres amplias categorias:
 
 ### Repositorio
 Se cuenta con un repositorio, que es la base de datos donde se almacenan todos los ECS y las relaciones entre si. 
-Los elementos de configuracion de software se relacionan entre si, por lo que un cambio en uno puede afectar a otros
+Los elementos de configuración de software se relacionan entre si, por lo que un cambio en uno puede afectar a otros
 ![[Pasted image 20260615141551.png]]
 
 ### Linea de referencia/base - "versionado"
@@ -101,22 +101,22 @@ El proceso de gestion del cambio define tareas con objetivos precisos con respec
 	- Responde ¿Qué pasó? ¿Quién lo hizo? ¿Cuándo pasó? ¿Qué más se vio afectado?
 
 ## Gestión de proyectos
-Un proyecto es un esfuerzo temporal que se lleva a cabo para crear un producto, servicio o resultado único.
-Características: 
-- Temporal: Tiene principio y fin definidos.
-- Resultado: Productos, servicios o resultados únicos.
-- Elaboración gradual: Desarrollar pasos e ir aumentando mediante incrementos. 
-
+Un proyecto de software es un esfuerzo temporal, es decir que tiene principio y fin, orientado a crear un producto de software, que esta restringido por alcance, tiempo y costo. 
+Gestionar un proyecto es complejo y es importante que se haga de una manera correcta para no sobrepasar las restricciones anteriormente mencionadas. Para lograrlo, se ha visto el enfoque de las '4P', personas, procesos, producto y proyecto que busca no solo enfocarse en lo tecnico sino en todas las partes involucradas en un proyecto. Todas las personas involucradas se deben organizar para realizar el producto de forma efectiva. Se debe saber el alcance del producto y los objetivos necesarios, analizar requerimientos y alternativas. El marco de actividades que conforman los procesos deben achicar el margen de error humano. Y el proyecto es lo que engloba a todo, como se gestiona, organiza, planifica y monitorea el esfuerzo para evitar el fracaso. 
 ### Las 4 P: 
 La gestión efectiva de proyectos de software se enfoca en las cuatro P: personas, producto, proceso y proyecto. Las personas deben organizarse para realizar el trabajo de software de manera efectiva. Hay que entender el alcance del producto y los requerimientos. Es necesario seleccionar un proceso que sea apropiado para las personas y el producto. Para planear el proyecto se deben estimar el esfuerzo y el tiempo de calendario para realizar las tareas del trabajo.
 
 ### Elementos clave de la gestión de proyectos
-- Metricas
-- Estimaciones
-- Calendario temporal
-- Organizacion del personal
-- Analisis de riesgos
-- Seguimiento de control 
+- Métricas: medir el proceso, el producto y el proyecto, para trabajar la gestion con datos. 
+- Estimaciones: predecir esfuerzo, costo y duracion. 
+- Calendario temporal: *Scheduling,* distribuir las tareas en el tiempo.
+- Organizacion del personal: generar una estructura de personal efectiva
+- Analisis de riesgos: predecir, analizar y elaborar respuestas ante posibles riesgos
+- Seguimiento de control: realizar un seguimiento del proyecto, comparar con estimaciones y corregir desvios
+
+¿Por que es necesario identificarlos? Para asegurar que ningun aspecto de la gestion quede sin definir o controlar. Todos estos elementos controlados diferencian a un proyecto exitoso de uno que fracasa. 
+
+
 
 
  

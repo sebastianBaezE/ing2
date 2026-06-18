@@ -102,22 +102,23 @@ Estos cinco son el núcleo. Todo lo demás (V&V, UI, 4P, diseño, estimación) e
 
 ---
 
-#### A.2. Elementos clave de la gestión de proyectos (4P + W5HH) 🟡
+#### A.2. Elementos clave de la gestión de proyectos 🟡
 
-**Definición / Conceptos clave.** Hay dos respuestas válidas, según cómo lo encare la cátedra:
-1. **Las 4 P** (Personas, Producto, Proceso, Proyecto) — ver A.1.
-2. **El principio W5HH de Boehm**, un conjunto de preguntas clave para planificar cualquier proyecto:
-   - *Why* (¿Por qué se desarrolla?) — justificación del negocio.
-   - *What* (¿Qué se hará?) — tareas.
-   - *When* (¿Cuándo?) — cronograma.
-   - *Who* (¿Quién es responsable?) — roles.
-   - *Where* (¿Dónde se ubican organizacionalmente?).
-   - *How* (¿Cómo lo harán, técnica y gerencialmente?).
-   - *How much* (¿Cuántos recursos?).
+**Respuesta de la cátedra (la que esperan, textual).** Los **elementos clave de la gestión de proyectos** son:
+1. **Métricas** — medir el proceso, el producto y el proyecto para decidir con datos (ver Bloque B′).
+2. **Estimaciones** — predecir esfuerzo, costo y duración (ver B.3).
+3. **Calendario temporal** (planificación temporal / *scheduling*) — distribuir las tareas en el tiempo; se apoya en **PERT** (ver B.2 y B.4).
+4. **Organización del personal** — constituir y estructurar el equipo (ver A.1 "Personas", A.4 P-CMM, A.5 estructura de equipos).
+5. **Análisis de riesgos** — identificar, analizar y planificar respuestas a los riesgos (ver Bloque C).
+6. **Seguimiento y control** — monitorear el avance real contra el plan y corregir desvíos (ver B.2).
 
-**Objetivo / Problema que resuelve.** Asegurar que ningún aspecto de la gestión quede sin definir antes de arrancar.
+> Notá que estos seis elementos son, en la práctica, el **índice de toda la parte de gestión** de la materia: cada uno se desarrolla en detalle en los bloques A, B, B′ y C de esta guía. Si te toca esta pregunta, enumerás los seis y explicás brevemente cada uno.
 
-**Posible pregunta.** "Enumere los elementos clave de la gestión de proyectos / el principio W5HH."
+**Objetivo / Problema que resuelve.** Asegurar que **ningún aspecto de la gestión quede sin definir ni sin controlar**: medir, estimar, calendarizar, organizar a la gente, cubrir riesgos y hacer seguimiento. Es lo que separa un proyecto gestionado de uno "en problemas".
+
+**Marco relacionado (por si lo piden con otro enfoque).** La cátedra también puede encarar la gestión desde **las 4 P** (Personas, Producto, Proceso, Proyecto — ver A.1) o el **principio W5HH de Boehm** (Why / What / When / Who / Where / How / How much), un set de preguntas para no dejar nada sin planificar. No los confundas con los seis elementos de arriba: las 4 P son el *marco conceptual*, los seis elementos son la *respuesta esperada* a esta consigna puntual.
+
+**Posible pregunta.** "¿Cuáles son los elementos clave de la gestión de proyectos?" (E2) → los **seis** de arriba.
 
 ---
 
