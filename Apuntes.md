@@ -102,7 +102,15 @@ El proceso de gestion del cambio define tareas con objetivos precisos con respec
 
 ## Gestión de proyectos
 Un proyecto de software es un esfuerzo temporal, es decir que tiene principio y fin, orientado a crear un producto de software, que esta restringido por alcance, tiempo y costo. 
-Gestionar un proyecto es complejo y es importante que se haga de una manera correcta para no sobrepasar las restricciones anteriormente mencionadas. Para lograrlo, se ha visto el enfoque de las '4P', personas, procesos, producto y proyecto que busca no solo enfocarse en lo tecnico sino en todas las partes involucradas en un proyecto. Todas las personas involucradas se deben organizar para realizar el producto de forma efectiva. Se debe saber el alcance del producto y los objetivos necesarios, analizar requerimientos y alternativas. El marco de actividades que conforman los procesos deben achicar el margen de error humano. Y el proyecto es lo que engloba a todo, como se gestiona, organiza, planifica y monitorea el esfuerzo para evitar el fracaso. 
+
+Gestionar un proyecto es complejo y es importante que se haga de una manera correcta para no sobrepasar las restricciones anteriormente mencionadas. 
+
+Para lograrlo, se ha visto el enfoque de las '4P', personas, procesos, producto y proyecto que busca no solo enfocarse en lo técnico sino en todas las partes involucradas en un proyecto. Todas las personas involucradas se deben organizar para realizar el producto de forma efectiva. Se debe saber el alcance del producto y los objetivos necesarios, analizar requerimientos y alternativas. El marco de actividades que conforman los procesos deben achicar el margen de error humano. Y el proyecto es lo que engloba a todo, como se gestiona, organiza, planifica y monitorea el esfuerzo para evitar el fracaso. 
+
+La gestion del proyecto implica la planeacion, monitoreo y coordinacion de personas, procesos y eventos que ocurren a meidda que el software evoluciona de un conepto preliminar hasta su despliegue operacional completo. 
+### Producto de trabajo
+Se crea un plan de proyecto y evoluciona a medida que comienzan las actividades del proyecto. El plan es un documento viviente que define el procesos y las tareas a realizar, las personas que realizaran el trabajo y los mecanismos para evaluar riesgos, controlar el cambio y evaluar la calidad. 
+
 ### Las 4 P: 
 La gestión efectiva de proyectos de software se enfoca en las cuatro P: personas, producto, proceso y proyecto. Las personas deben organizarse para realizar el trabajo de software de manera efectiva. Hay que entender el alcance del producto y los requerimientos. Es necesario seleccionar un proceso que sea apropiado para las personas y el producto. Para planear el proyecto se deben estimar el esfuerzo y el tiempo de calendario para realizar las tareas del trabajo.
 
@@ -117,6 +125,10 @@ La gestión efectiva de proyectos de software se enfoca en las cuatro P: persona
 ¿Por que es necesario identificarlos? Para asegurar que ningun aspecto de la gestion quede sin definir o controlar. Todos estos elementos controlados diferencian a un proyecto exitoso de uno que fracasa. 
 
 
+## Planificacion
+La planificiacion establece una secuencia operativa. Dice que debe hacerse, con que recursos debe hacerse y en que orden. 
 
+**Definición.** La *planificación temporal* (scheduling) distribuye el esfuerzo estimado entre las tareas del proyecto a lo largo del tiempo, definiendo dependencias y asignando recursos.
 
- 
+### Gestión del riesgo
+
