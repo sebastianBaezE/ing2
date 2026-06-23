@@ -8,26 +8,26 @@
 
 Conteo sobre los 7 finales analizados (E1 = "final" suelto; E2 = 24/4/2013; E3 = lasaña; E4 = P-CMM/excavación; E5 = 6/2/13 completo; E6 = 11/2/2015 reducido; E7 = empresa de fletes 4-9-24).
 
-| Tema | Apariciones | En qué finales | Clasificación |
-|------|:-----------:|----------------|---------------|
-| **Gestión de Configuración (GCS) / Línea base** | 6 | E1, E2, E3, E4, E5, E7 | 🔴 Muy frecuente |
-| **PERT / CPM / Camino crítico** | 5 | E2, E3, E4, E5, E7 | 🔴 Muy frecuente |
-| **Gestión de riesgos** (definición, características, clasificación, estrategias, línea de corte) | 5 | E1, E4, E5, E6, E7 | 🔴 Muy frecuente |
-| **Diseño arquitectónico / Organización del sistema** (Repositorio vs Cliente-Servidor) | 5 | E1, E2, E4, E5, E7 | 🔴 Muy frecuente |
-| **Rejuvenecimiento del software** (reingeniería) | 4 | E1, E3, E5, E6 | 🔴 Muy frecuente |
-| **Verificación y Validación / Pruebas de integración** | 3 | E3, E4, E7 | 🟠 Frecuente |
-| **Interfaz de usuario** (Nielsen, Recuperabilidad, consideraciones de UI) | 3 | E1, E5, E7 | 🟠 Frecuente |
-| **Problema de las 4 P / ¿Qué es un proyecto?** | 2–3 | E2, E3 | 🟠 Frecuente |
-| **Tipos / áreas de diseño de software** | 2 | E3, E4 | 🟠 Frecuente |
-| **Principios de diseño** | 2 | E1, E2 | 🟠 Frecuente |
-| Cohesión y acoplamiento | 1 | E6 | 🟡 Poco frecuente (pero fundamental) |
-| Elementos clave de la gestión de proyectos | 1 | E2 | 🟡 Poco frecuente |
-| Técnicas de estimación | 1 | E5 | 🟡 Poco frecuente |
-| Modelo MOI | 1 | E2 | 🟡 Poco frecuente |
-| P-CMM | 1 | E4 | 🟡 Poco frecuente |
-| Estructura de equipos / factores | 1 | E7 | 🟡 Poco frecuente |
-| Planificación temporal (seguimiento y control) | 1 | E3 | 🟡 Poco frecuente |
-| Tipos de planificación organizacional | 1 | E1 | 🟡 Poco frecuente |
+| Tema                                                                                             | Apariciones | En qué finales         | Clasificación                        |
+| ------------------------------------------------------------------------------------------------ | :---------: | ---------------------- | ------------------------------------ |
+| **Gestión de Configuración (GCS) / Línea base**                                                  |      6      | E1, E2, E3, E4, E5, E7 | 🔴 Muy frecuente                     |
+| **PERT / CPM / Camino crítico**                                                                  |      5      | E2, E3, E4, E5, E7     | 🔴 Muy frecuente                     |
+| **Gestión de riesgos** (definición, características, clasificación, estrategias, línea de corte) |      5      | E1, E4, E5, E6, E7     | 🔴 Muy frecuente                     |
+| **Diseño arquitectónico / Organización del sistema** (Repositorio vs Cliente-Servidor)           |      5      | E1, E2, E4, E5, E7     | 🔴 Muy frecuente                     |
+| **Rejuvenecimiento del software** (reingeniería)                                                 |      4      | E1, E3, E5, E6         | 🔴 Muy frecuente                     |
+| **Verificación y Validación / Pruebas de integración**                                           |      3      | E3, E4, E7             | 🟠 Frecuente                         |
+| **Interfaz de usuario** (Nielsen, Recuperabilidad, consideraciones de UI)                        |      3      | E1, E5, E7             | 🟠 Frecuente                         |
+| **Problema de las 4 P / ¿Qué es un proyecto?**                                                   |     2–3     | E2, E3                 | 🟠 Frecuente                         |
+| **Tipos / áreas de diseño de software**                                                          |      2      | E3, E4                 | 🟠 Frecuente                         |
+| **Principios de diseño**                                                                         |      2      | E1, E2                 | 🟠 Frecuente                         |
+| Cohesión y acoplamiento                                                                          |      1      | E6                     | 🟡 Poco frecuente (pero fundamental) |
+| Elementos clave de la gestión de proyectos                                                       |      1      | E2                     | 🟡 Poco frecuente                    |
+| Técnicas de estimación                                                                           |      1      | E5                     | 🟡 Poco frecuente                    |
+| Modelo MOI                                                                                       |      1      | E2                     | 🟡 Poco frecuente                    |
+| P-CMM                                                                                            |      1      | E4                     | 🟡 Poco frecuente                    |
+| Estructura de equipos / factores                                                                 |      1      | E7                     | 🟡 Poco frecuente                    |
+| Planificación temporal (seguimiento y control)                                                   |      1      | E3                     | 🟡 Poco frecuente                    |
+| Tipos de planificación organizacional                                                            |      1      | E1                     | 🟡 Poco frecuente                    |
 
 **Lectura clave del cuadro:** cinco temas (GCS, PERT, Riesgos, Arquitectura, Rejuvenecimiento) concentran casi toda la evaluación. Dominar esos cinco te permite responder, en promedio, **5 de las 7 preguntas** de cualquier final de esta cátedra.
 
@@ -196,10 +196,10 @@ Estos cinco son el núcleo. Todo lo demás (V&V, UI, 4P, diseño, estimación) e
 **Participantes a organizar:** gerentes ejecutivos (dueños del producto, definen los temas empresariales), gerentes de proyecto/líderes (planifican, motivan, organizan y controlan), profesionales especializados (aportan lo técnico), clientes (especifican requerimientos) y usuarios finales (interactúan con el software).
 
 **Tipos = los 4 paradigmas organizacionales del equipo** (esta es la respuesta esperada a "tipos de planificación organizacional"):
-1. **Cerrado** — jerarquía de autoridad tradicional, comunicación vertical jefe↔miembros. Bueno cuando el software es similar a esfuerzos previos; **poco innovador**.
+1. **Cerrado** — estructura un equipo conforme a una jerarquía de autoridad tradicional. (Comunicación vertical entre jefe y miembros del equipo) Tales equipos pueden trabajar bien cuando producen software muy similar al de esfuerzos anteriores, pero será **menos probable que sean innovadores** cuando trabajen dentro de este paradigma.
 2. **Abierto** — combina algunos controles del cerrado con la innovación del aleatorio: trabajo colaborativo, mucha comunicación, **decisiones consensuadas** (democrático). Bueno para problemas complejos; puede ser menos eficiente.
-3. **Síncrono** — se apoya en la **compartimentalización natural** del problema; los miembros trabajan en partes con poca comunicación entre sí (descentralizado pero controlado, "divide y vencerás"). Bueno para problemas grandes; riesgo de producto mal integrado por falta de comunicación.
-4. **Aleatorio** — estructura **holgada**, depende de la iniciativa individual, sin líder definido. Destaca cuando se necesita innovación o avance tecnológico; flojea en el "desempeño ordenado".
+3. **Síncrono** — se apoya en la **compartimentalización natural** del problema; organiza a los miembros del equipo para trabajar en trozos del problema con poca comunicación activa entre ellos. Es un equipo descentralizado y controlado a la vez. Bueno para problemas grandes; riesgo de producto mal integrado por falta de comunicación.
+4. **Aleatorio** — estructura un equipo de manera holgada y depende de la iniciativa individual de los miembros del equipo. Los miembros se organizan entre ellos y no se requiere de un líder definido. Las trayectorias de comunicación pueden ser cualquiera de los otros tres paradigmas. Destaca cuando se necesita innovación o avance tecnológico; flojea en el "desempeño ordenado".
 
 **Objetivo.** Sin importar el paradigma, la meta es un equipo **cohesionado** (más productivo y motivado): fija sus propios estándares de calidad, comparte conocimiento y alienta la mejora continua.
 
@@ -229,26 +229,42 @@ Estos cinco son el núcleo. Todo lo demás (V&V, UI, 4P, diseño, estimación) e
 
 #### B.3. Técnicas de estimación 🟡
 
-**Definición.** Métodos para predecir esfuerzo, costo y duración de un proyecto.
+Son técnicas que permiten dar un valor **aproximado** a una medición. Podemos estimar recursos, costos, tiempos, siempre aproximado. 
+- **Estimar Recursos** 
+	- Personal: Cantidad de recursos, habilidades, ubicación. 
+	- Software: otro software externo, otros componentes.
+	- Entorno: Hardware, Recursos red, etc.
+- **Estimación de Costos** 
+	- Esfuerzo: pago a los desarrolladores 
+	- Hardware y Software: mantenimiento, plataforma, etc 
+	- Viajes 
+- **Tiempos** 
+	- Como vimos en estimación temporal, con PERT+CPM. 
+	- Tres técnicas 
+		- Juicio experto: diferentes expertos estiman y discuten. 
+		- Técnica Delphi: diferentes expertos nos dan estimaciones sin interactuar. 
+		-  División de trabajo: preguntamos a los que están debajo de los expertos, subiendo. 
+	- Modelo empírico COCOMO 2 
+		- Modelo de composición de aplicación 
+		- Modelo de diseño temprano 
+		- Modelo de reutilización 
+		- Modelo pos arquitectura
 
-**Conceptos clave (técnicas):**
-- **Juicio de expertos:** estimación basada en la experiencia de personas conocedoras. Rápida pero subjetiva.
-- **Estimación por analogía:** comparar con proyectos similares ya realizados.
-- **Método Delphi (Wideband Delphi):** estimación por **consenso de expertos** en rondas (anónimas) hasta converger; reduce el sesgo de un único estimador. *(La cátedra lo menciona explícitamente.)*
-- **Descomposición (bottom-up):** dividir el sistema en tareas/componentes, estimar cada uno y sumar. Puede basarse en **LOC** (líneas de código) o en **Puntos de Función (PF)**.
-- **Modelos algorítmicos de costos:** fórmulas paramétricas como **COCOMO / COCOMO II**, que relacionan tamaño (LOC o PF) con esfuerzo.
-- **Ley de Parkinson:** "el trabajo se expande hasta llenar el tiempo disponible" → estimar según los recursos disponibles (riesgoso).
-- **Precio para ganar (pricing to win):** estimar según lo que el cliente puede pagar (riesgoso).
-- **Estimación de tres puntos (PERT):** combinar estimación optimista, más probable y pesimista.
-
-**Ventajas/desventajas.** Juicio experto y analogía son rápidos pero dependen de la calidad de los datos históricos; los modelos algorítmicos son repetibles pero requieren calibración. Lo recomendable es **combinar** varias técnicas y comparar.
+**COCOMO II** 
+1. Modelo de composición de aplicación 
+	Modela el esfuerzo requerido para desarrollar sistemas creados a partir de componentes de reutilización. Estimación de puntos de aplicación. 
+2. Modelo de diseño temprano 
+	Se puede utilizar durante las primeras etapas de un proyecto. Se acordaron los requerimientos. Se elabora una estimación rápida y aproximada de los costos. 
+3. Modelo de reutilización 
+	Se emplea para estimar el esfuerzo requerido para integrar el código. 
+4. Modelo post-arquitectura 
+	Cuando está el diseño arquitectónico inicial.
 
 **Relación.** Alimenta la **planificación temporal** y el **PERT**; el tamaño estimado del producto influye en la **estructura del equipo**.
 
 **Posible pregunta.** "Enumere y describa las técnicas de estimación que conozca." (E5)
 
 ---
-Establecer lista de tareas 2. Fijar dependencia entre tareas y duración 3. Construir la red 4. Numerar los nodos 5. Calcular la fecha temprana y tardía de cada nodo Tei = Fecha temprana del nodo i Tai = Fecha tardía del nodo i 6. Calcular el camino crítico que une las tareas críticas ==> Tei = Tai
 #### B.4. PERT / CPM y camino crítico 🔴 (ejercicio casi seguro)
 
 **Definición.** **PERT** (Program Evaluation and Review Technique) y **CPM** (Critical Path Method) son técnicas de **red de actividades** para planificar y controlar la duración de un proyecto. Representan tareas, dependencias y duraciones, y permiten calcular el tiempo total y el **camino crítico**.
@@ -421,9 +437,9 @@ La cátedra profundiza en dos **métricas de tamaño** del producto y suele toma
 	1. Un factor de riesgo que tenga gran impacto pero poca probabilidad de que ocurra, no debería absorber un tiempo significativo. Los riesgos de gran impacto con una probabilidad de moderada a alta y los riesgos de poco impacto pero con gran probabilidad deberían tomarse en cuenta.
 	2. **Línea de corte (cutline) — clave en E7.** Tras ordenar los riesgos por exposición/prioridad, es la **línea que separa los riesgos que se gestionarán activamente de los que se aceptan** (porque su exposición es baja o porque mitigarlos cuesta más de lo que valen). Es una decisión costo/beneficio.
 3. **Planificación:** definir cómo tratar cada riesgo (**Estrategias de tratamiento** (Sommerville)): 
-	- **De evitación (avoidance):** reducir la **probabilidad** de que el riesgo ocurra.
-	- **De minimización (minimization):** reducir el **impacto** si llegara a ocurrir.
-	- **Planes de contingencia:** preparar qué hacer **si** el riesgo se materializa.
+	- **Evitar el riesgo** Siguiendo esta estrategia, el sistema se diseña de modo que no pueda ocurrir el evento. 
+	- **Minimizar el riesgo** Siguiendo esta estrategia, la probabilidad que el riesgo se presente se reduce. 
+	- **Plan de contingencia** Siguiendo esta estrategia se está preparado para lo peor. Se acepta la aparición del riesgo y es tratado de manera de minimizar las consecuencias.
 4. **Supervisión (monitoreo):** seguir los riesgos a lo largo del proyecto y reevaluar.
 
 
@@ -441,8 +457,6 @@ La cátedra profundiza en dos **métricas de tamaño** del producto y suele toma
 
 **Lo que dice la cátedra (Pressman Cap. 26).** Como priorizar "parece arbitrario", **Boehm recomienda identificar y supervisar los 10 riesgos más altos** (los de mayor **exposición** = probabilidad × impacto). El **número exacto depende del proyecto**, pero debe ser **manejable**. Los riesgos **por encima de la línea de corte** reciben atención y plan de mitigación; los de **debajo** se reevalúan con prioridad de segundo orden. Regla práctica: un riesgo de **gran impacto pero baja probabilidad** no debería consumir tiempo significativo; sí merecen atención los de **gran impacto y probabilidad moderada-alta**, y los de **bajo impacto pero alta probabilidad**.
 
-**Versión clásica del libro (por si piden la lista).** El "Top 10" histórico de Boehm incluye: deficiencias de personal; cronogramas/presupuestos irreales; desarrollar funciones equivocadas; desarrollar la UI equivocada; *gold plating* (ornamentar de más); flujo continuo de cambios en requisitos; deficiencias en componentes externos; deficiencias en tareas tercerizadas; problemas de rendimiento en tiempo real; exigir capacidades por encima del estado del arte.
-
 **Relación.** Conecta directamente con la **línea de corte** y el **análisis de riesgos** (C.2); el ítem de personal es el riesgo del caso E5/E7; el de cambios de requisitos se controla con **GCS**.
 
 **Posible pregunta.** "¿Qué es un riesgo? ¿Cuáles son los ítems de más alto riesgo según Boehm?" (Q3) → enfocá en *supervisar los 10 de mayor exposición por encima de la línea de corte*.
@@ -453,13 +467,11 @@ La cátedra profundiza en dos **métricas de tamaño** del producto y suele toma
 
 #### D.1. Tipos / áreas de diseño de software 🟠
 
-**Definición.** Pressman divide el diseño en **cuatro áreas/modelos**, que van de lo más abstracto a lo más concreto:
-- **Diseño de datos:** estructuras de datos y modelo de información (transforma el modelo de análisis en estructuras necesarias para implementar el software).
-- **Diseño arquitectónico:** estructura global del sistema, relación entre subsistemas/componentes (ver D.4).
-- **Diseño de interfaz (UI):** cómo se comunican el sistema y el usuario, y los sistemas entre sí (ver D.5).
-- **Diseño a nivel de componentes (procedimental):** lógica interna de cada componente/módulo.
-
-**Objetivo / problema que resuelve.** Transformar los requisitos en una representación técnica del software que pueda construirse, separando preocupaciones por nivel de detalle.
+**Definición.** El objetivo del diseño de los distintos aspectos del software es transformar los requisitos en una representación técnica del software que pueda construirse, separando preocupaciones por nivel de detalle. Pressman divide el diseño en **cuatro áreas/modelos**, que van de lo más abstracto a lo más concreto:
+- **Diseño de datos:** Transforma el modelo del dominio obtenido del análisis, en estructuras de datos, objetos de datos, relaciones , etc.
+- **Diseño arquitectónico:** Define la relación entre los elementos estructurales del software, los estilos arquitectónicos, patrones de diseño, etc.
+- **Diseño de interfaz (UI):** Describe la forma de comunicación dentro del mismo sistema, con otros sistemas, y con las personas.
+- **Diseño a nivel de componentes (procedimental):** define la logica interna de los elementos estructurales del software.
 
 **Relación.** El diseño arquitectónico es la base sobre la que se hace el de componentes; el de datos atraviesa a todos; el de interfaz aplica los principios de UI y las heurísticas de Nielsen.
 
@@ -511,24 +523,35 @@ de contenido → común (datos globales) → de control (se pasan banderas que c
 **Modelos de organización del sistema (Sommerville):**
 
 ##### Modelo de Repositorio
-Los subsistemas **comparten datos en un repositorio (base de datos) central**. Cada subsistema interactúa con ese almacén común.
-- **Ventajas:** eficiente para compartir **grandes volúmenes** de datos; un subsistema no necesita saber cómo otro usa los datos; gestión centralizada de respaldo, seguridad y control de acceso; fácil integrar nuevos subsistemas que entiendan el modelo de datos.
-- **Desventajas:** los subsistemas deben **acordar un modelo de datos común** (compromiso que limita a cada uno); evolucionar el modelo de datos es costoso (afecta a todos); difícil de **distribuir** eficientemente; **punto único de falla** (si cae el repositorio, cae todo).
+Los sistemas se organizan alrededor de una base de datos compartida (repositorio) Los datos son generados por un subsistema y utilizados por otros subsistemas
+- **Ventajas:** 
+	- Forma eficiente de compartir grandes cantidades de datos, no hay necesidad de transmitir datos de un subsistema a otro 
+	- Los subsistemas que producen datos no deben saber como se utilizan 
+	- Las actividades de backup, protección, control de acceso están centralizadas. 
+	- El modelo compartido es visible a través del esquema del repositorio. Las nuevas herramientas se integran de forma directa, ya que son compatibles con el modelo de datos
+- **Desventajas:**
+	- Los subsistemas deben estar acordes a los modelos de datos del repositorio. Esto en algunos casos puede afectar el rendimiento. 
+	- La evolución puede ser difícil a medida que se genera un gran volumen de información de acuerdo con el modelo de datos establecido. La migración de estos modelos puede ser muy difícil, en algunos casos imposible. 
+	- Diferentes subsistemas pueden tener distintos requerimientos de protección o políticas de seguridad y el modelo de repositorio impone las mismas para todos. 
+	- Es difícil distribuir el repositorio en varias máquinas, existen repositorios centralizados lógicamente pero pueden ocasionar problemas de redundancia e inconsistencias.
 
 ##### Modelo Cliente-Servidor
-Sistema **distribuido**: un conjunto de **servidores** ofrece servicios, un conjunto de **clientes** los consume, y una **red** los conecta.
+Sistema **distribuido**: Es un modelo donde el sistema se organiza como un conjunto de servidores que ofrecen servicios,  un conjunto de clientes que llaman a los servicios y una red que permite a los clientes acceder a los servicios
 - **Ventajas:** **distribución natural** de datos y procesamiento; **escalable** (se agregan servidores fácilmente); permite usar hardware/equipos heterogéneos; los clientes acceden a los servicios sin conocer la implementación interna.
 - **Desventajas:** **no hay un modelo de datos compartido** (cada servicio puede tener el suyo → posible redundancia); no hay un registro central de qué servicios existen (puede ser difícil saber qué hay disponible); el **rendimiento depende de la red** (puede ser cuello de botella); la gestión está distribuida → más compleja.
 
+##### Arquitectura en Capas:
+Patrón arquitectónico que organiza el sistema en capas jerárquicas, donde cada capa tiene una responsabilidad específica y solo se comunica con la capa inmediatamente adyacente.
+
 ##### Comparación directa (la pregunta clásica)
-| Criterio | Repositorio | Cliente-Servidor |
-|---|---|---|
-| Datos | Centralizados, modelo común | Distribuidos, sin modelo único |
-| Acoplamiento de datos | Alto (todos dependen del repositorio) | Bajo entre servicios |
-| Distribución | Difícil | Natural |
-| Escalabilidad | Limitada | Alta (agregar servidores) |
-| Punto único de falla | Sí (el repositorio) | Menor (depende de la red/servidores) |
-| Compartir grandes volúmenes | Muy eficiente | Menos directo |
+| Criterio                    | Repositorio                           | Cliente-Servidor                     |
+| --------------------------- | ------------------------------------- | ------------------------------------ |
+| Datos                       | Centralizados, modelo común           | Distribuidos, sin modelo único       |
+| Acoplamiento de datos       | Alto (todos dependen del repositorio) | Bajo entre servicios                 |
+| Distribución                | Difícil                               | Natural                              |
+| Escalabilidad               | Limitada                              | Alta (agregar servidores)            |
+| Punto único de falla        | Sí (el repositorio)                   | Menor (depende de la red/servidores) |
+| Compartir grandes volúmenes | Muy eficiente                         | Menos directo                        |
 
 > *Otros modelos que la cátedra menciona:* **Máquina abstracta / por capas** (cada capa usa servicios de la inferior; flexible pero a veces poco eficiente) y los **modelos de control** (centralizado vs basado en eventos).
 
@@ -581,10 +604,31 @@ Para responder: definí recuperabilidad como *la capacidad de volver a un estado
 **Cómo lo enseña la cátedra (Pressman, Cap. 11–12).** El diseño de UI es un **proceso iterativo y centrado en el usuario**, con 6 pasos: (1) analizar y comprender las actividades del usuario → (2) diseño del prototipo en papel → (3) evaluar con usuarios finales → (4) diseño dinámico del prototipo → (5) evaluar con usuarios → (6) implementar la interfaz definitiva. *(Esa es la lámina rotulada "6 principios de interfaz": en realidad es el proceso, no una lista de principios.)*
 
 **Reglas doradas del diseño — Theo Mandel (consideraciones de UI, E5/Q28):**
-1. **Dar control al usuario** — interacción flexible; **incluir interrumpir y deshacer**; ocultar lo técnico interno; interacción directa con objetos en pantalla. *(Acá vive la "recuperabilidad".)*
-2. **Reducir la carga de memoria del usuario** — valores por defecto con significado, accesos directos intuitivos, metáforas de la realidad, información progresiva.
-3. **Lograr una interfaz consistente** — mismas reglas para las mismas interacciones; el usuario sabe de dónde viene y a dónde puede ir.
-- Sumar **factores humanos** (percepción, memoria, razonamiento, habilidades) y **diversidad de usuarios** (casuales necesitan guía; expertos, agilidad).
+1. **Dar control al usuario** — 
+	1. Definir modos de interacción de forma que el usuario no realice acciones innecesarias; 
+	2. Proporcionar interacción flexible; 
+	3. **incluir interrumpir y deshacer**; 
+	4. ocultar lo técnico interno; 
+	5. interacción directa con objetos en pantalla.
+2. **Reducir la carga de memoria del usuario** 
+	1. Reducir la demanda a corto plazo 
+	2. Definir valores por defecto que tengan significado 
+	3. Definir accesos directos intuitivos 
+	4. El formato visual de la interfaz debe basarse en una metáfora de la realidad 
+	5. Desglosar la información de manera progresiva
+3. **Lograr una interfaz consistente** — 
+	1. Utilizar las mismas reglas para las mismas interacciones; 
+	2. El usuario sabe de dónde viene y a dónde puede ir.
+	3. Mantener consistencia en toda la familia de aplicaciones
+- **Factores humanos** 
+	- Percepción visual/auditiva/táctil 
+	- Memoria humana 
+	- Razonamiento 
+	- Capacitación 
+	- Comportamiento/Habilidad personales 
+	- Diversidad de usuarios 
+		- Usuarios casuales: Necesitan interfaces que los guíen. 
+		- Usuarios experimentados: Requieren interfaces ágiles.
 
 **Usabilidad (Donahue).** Medida de cuán bien un sistema facilita el aprendizaje, ayuda a recordar lo aprendido, reduce errores, permite eficiencia y deja satisfecho al usuario. Se determina **evaluándola/probándola** con usuarios reales.
 
@@ -608,7 +652,7 @@ Para responder: definí recuperabilidad como *la capacidad de volver a un estado
 **Objetivo / problema que resuelve.** Detectar defectos y asegurar que el software es a la vez *bien hecho* (verificación) y *lo que el cliente necesitaba* (validación). Un producto puede estar perfectamente construido según la especificación y aun así ser inútil si la especificación estaba mal: por eso hacen falta ambas.
 
 **Conceptos clave — técnicas de prueba.**
-- **Caja blanca (estructural):** se conoce el código; se prueban caminos, condiciones, bucles, cobertura. Tiende a ser **verificación**.
+- **Caja blanca (estructural):** Sabemos que sucede dentro del código. Ejercitaremos decisiones lógicas, bucles y estructuras internas para asegurar su validez. El flujo lógico de un programa a veces no es intuitivo.. Tiende a ser **verificación**.
 - **Caja negra (funcional):** no se mira el código; se prueban entradas/salidas contra los requisitos. Tiende a la **validación**.
 - *Ejemplo de caja blanca:* prueba del **camino básico**, asegurando que cada rama de un `if` y cada bucle se ejecuten al menos una vez (cobertura).
 - *Ejemplo de caja negra:* **partición de equivalencia / valores límite**: si un campo acepta 1–100, probar 0, 1, 100 y 101.
@@ -618,16 +662,34 @@ Para responder: definí recuperabilidad como *la capacidad de volver a un estado
 - **Dinámicas (ejecutando el software):** las **pruebas**. Incluyen las de desarrollo (unitarias, integración, sistema), las de **versión** (release) y las de **usuario** (alfa, beta y de **aceptación**). Las de usuario/aceptación son las que claramente **validan**.
 
 **Niveles de prueba y su relación con V&V:**
-- **Unitarias** (módulo individual) → verificación.
-- **Integración** (módulos juntos) → verificación.
-- **De sistema** (sistema completo) → entre verificación y validación.
-- **De aceptación** (con el usuario, datos reales) → **validación**.
+- codigo →**Unitarias** (módulo individual) → verificación.
+	- Por lo general una clase encapsulada es el foco de la prueba de unidad. 
+	- Los métodos son las unidades comprobables más pequeñas. 
+	- La prueba de clase es el equivalente en este caso, la cual debe ser dirigida a las operaciones encapsuladas por la clase y el comportamiento de estado de ésta.
+- arquitectura → **Integración** (módulos juntos) → verificación.
+	- El software OO no tiene una estructura de control jerárquico obvia. 
+	- La prueba basada en hebra integra el conjunto de clases requeridas para responder a una entrada o evento. 
+	- La prueba basada en uso comienza con las clases independientes, luego las dependientes.
+	- **Tipos:**
+		- **Incremental descendente (top-down):** los módulos se integran al descender por la jerarquía de control, iniciando por el programa principal; se necesitan **stubs** (módulos ficticios que simulan a los aún no integrados).
+		- **Incremental ascendente (bottom-up):** se integra desde los módulos de bajo nivel hacia arriba; se necesitan **drivers/controladores** (que simulan a los módulos superiores).
+		- **híbrida:** combina top-down y bottom-up.
+- Ingeniería del sistema -> **De sistema** (sistema completo) → entre verificación y validación.
+	- Aunque cada prueba tiene un propósito diferente, todas trabajan para verificar que se han integrado adecuadamente todos los elementos del sistema
+		- Pruebas de **recuperación**: Se controla la recuperación de fallas y el modo de reanudación del procesamiento en un tiempo determinado. Generalmente se fuerza el fallo para comprobarlo. 
+		- Pruebas de **seguridad** Se comprueban los mecanismos de protección integrados. 
+		- Pruebas de **resistencia** (Stress) Se diseñan para enfrentar a los programas a situaciones anormales. 
+		- Prueba de **rendimiento** Se prueba el sistema en tiempo de ejecución. A veces va emparejada con la Prueba de resistencia.
+- requisitos →**De validación** (con el usuario, datos reales) → **validación**.
+	- una serie de pruebas que demuestren la conformidad con los requisitos
+	- Pruebas de **aceptación** (ALFA y BETA) 
+		- Las realiza el usuario final en lugar del responsable del desarrollo del sistema, una prueba de aceptación puede ir desde algo informal, hasta la ejecución sistemática de una serie de pruebas bien planificadas. 
+		- Dentro de las Pruebas de aceptación se pueden encontrar:
+			- Pruebas ALFA: desarrolladores con clientes antes de liberar el producto. 
+			- Pruebas BETA: seleccionando los clientes que efectuarán la prueba. El desarrollador no se encuentra presente.
 
 **Pruebas de integración (clave en E4 y E7):**
-- **Big-bang (no incremental):** integrar todo de golpe y probar. Simple pero difícil de localizar fallas.
-- **Incremental descendente (top-down):** se integra desde el módulo de más alto nivel hacia abajo; se necesitan **stubs** (módulos ficticios que simulan a los aún no integrados).
-- **Incremental ascendente (bottom-up):** se integra desde los módulos de bajo nivel hacia arriba; se necesitan **drivers/controladores** (que simulan a los módulos superiores).
-- **Sándwich / híbrida:** combina top-down y bottom-up.
+
 
 **¿Cuál usar? (E7).** En un sistema con lógica crítica en módulos base (cálculo de rutas, geolocalización) conviene **ascendente (bottom-up)**, para probar primero y bien esos componentes fundamentales; si lo crítico es la interfaz y el flujo general, **descendente (top-down)**. Justificá según el caso.
 
@@ -675,12 +737,12 @@ Es decir: un ECS empieza siendo modificable libremente; una vez **revisado y apr
 
 #### G.1. Tipos de mantenimiento y barrera del mantenimiento (Q34, Q37)
 
-**Definición.** El **mantenimiento** es la modificación del software **después de su entrega** (solucionar errores, añadir mejoras, optimizar). Es la fase **más larga y costosa** del ciclo de vida: según la cátedra (Pfleeger) involucra entre el **40 % y el 70 % del costo total de desarrollo**.
+**Definición.** El **mantenimiento** es la modificación del software **después de su entrega**, es el proceso de modificar, actualizar y cambiar el software para satisfacer las necesidades del cliente. Es una actividad amplia que incluye: corregir errores, mejorar las capacidades, eliminar funciones obsoletas y optimizar otras.
 
 **Tipos de mantenimiento (Q34):**
 - **Correctivo:** corregir defectos/errores descubiertos tras la entrega.
 - **Adaptativo:** adaptar el software a cambios del entorno (nuevo SO, hardware, normativa).
-- **Perfectivo (de mejora):** agregar o mejorar funciones a pedido del usuario, o mejorar rendimiento/mantenibilidad. Suele ser el de **mayor proporción**.
+- **Perfectivo (de mejora):** agregar o mejorar funciones a pedido del usuario. Suele ser el de **mayor proporción**.
 - **Preventivo:** modificar el software para **prevenir** problemas futuros y mejorar su estructura antes de que falle (se solapa con la reingeniería).
 
 **Barrera del mantenimiento (Q37).** Es el **fenómeno** (Pfleeger Cap. 11) por el cual mantener el software —corregir errores, añadir mejoras y optimizar— genera **altos costos adicionales** que terminan **frenando otros desarrollos**: como el mantenimiento absorbe entre el 40 % y el 70 % del costo total, la organización queda "atrapada" sosteniendo lo viejo en vez de construir lo nuevo. Además tiene **efectos secundarios** sobre código, datos y documentación, puede **disminuir la calidad** total del producto y obliga a **reiniciar las fases** de análisis, diseño e implementación. Se alinea con las **leyes de evolución de Lehman** (Sommerville Cap. 21): la complejidad crece y la calidad decae si no se invierte en mejorarla. La respuesta es el **mantenimiento preventivo** y el **rejuvenecimiento / reingeniería** (G.2).
@@ -705,9 +767,9 @@ Es decir: un ECS empieza siendo modificable libremente; una vez **revisado y apr
 
 **Tipos de rejuvenecimiento (los 4 de la cátedra):**
 1. **Re-documentación** — recrear o actualizar la documentación a partir del sistema actual (nivel menos invasivo).
-2. **Re-estructuración** — transformar el software para hacerlo **más fácil de entender y de cambiar** sin alterar su funcionalidad (mejora cohesión/acoplamiento; aplica a código y a datos). La cátedra la describe interpretando el código fuente y representándolo internamente (red semántica / grafo) para luego mejorarlo.
-3. **Ingeniería inversa** — analizar el sistema para **recuperar su diseño y especificación** a partir del código (de lo concreto a lo abstracto). No modifica el sistema; produce información.
-4. **Re-ingeniería** — rehacer/reconstruir el sistema (normalmente combinando ingeniería inversa + reestructuración + ingeniería directa) para obtener una versión más mantenible.
+2. **Re-estructuración** — se reestructura el software para hacerlo **más fácil de entender y de cambiar** sin alterar su funcionalidad (mejora cohesión/acoplamiento; aplica a código y a datos). La cátedra la describe interpretando el código fuente y representándolo internamente (red semántica / grafo) para luego mejorarlo.
+3. **Ingeniería inversa** — La ingeniería inversa es el proceso de analizar un producto o sistema para comprender su diseño, funcionamiento interno y funcionalidad. Parte del código fuente y recupera el diseño y en ocasiones la especificación (de lo concreto a lo abstracto), para aquellos sistemas en los que no hay documentación . No modifica el sistema; produce información.
+4. **Re-ingeniería** — Produce un nuevo código fuente correctamente estructurado, mejorando la calidad sin cambiar la funcionalidad del sistema (normalmente combinando ingeniería inversa + reestructuración + ingeniería directa) para obtener una versión más mantenible.
 
 **Ventaja/desventaja.** Ventaja: menor costo y riesgo que reescribir; conserva conocimiento del negocio embebido en el sistema. Desventaja: tiene límites (a veces el sistema está tan degradado que reescribir conviene más); puede ser costoso si la documentación se perdió por completo.
 
